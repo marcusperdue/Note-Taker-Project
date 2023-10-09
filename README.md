@@ -40,9 +40,9 @@ To install this project, follow these steps:
 
 You can access the live demo of the Note Taker app on Heroku by clicking the following link:
 
-[Live Demo on Heroku](https://rocky-anchorage-20401-98e4f9cdce0a.herokuapp.com/notes)
+[Live Demo on Heroku](https://rocky-anchorage-20401-98e4f9cdce0a.herokuapp.com/)
 
-[![Demo](/public/media/demo.gif)](https://rocky-anchorage-20401-98e4f9cdce0a.herokuapp.com/notes)
+[![Demo](/public/media/demo.gif)](https://rocky-anchorage-20401-98e4f9cdce0a.herokuapp.com/)
 
 ## License
 
